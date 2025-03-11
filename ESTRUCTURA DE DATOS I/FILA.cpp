@@ -18,8 +18,6 @@ int main()
     for(auto x : s){
         cout << x << endl;
     }
-    s.top(); //mostrar el dato que esta en la cima
-    s.pop(); //elimina el dato que esta en la cima
     //vacio empty() and tamaño size()
     //multiset<tipo_dato> guardar datos repetitivos ordenado
     //unordered_set<tipo_dato> almacena valores no repetitivos no ordenados
